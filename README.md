@@ -1,6 +1,6 @@
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
-###이력
+### 이력
 2022 | Arisia.space ( 설립 )  
 2023 | 대학교 발명경진대회 테크노밸리상  
 2023 | 지능정보 시스템 응용 실험실 ( LAB )  
