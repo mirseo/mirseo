@@ -21,4 +21,4 @@
 2025 |   
 
 ## 이메일
-mirseo@mirseo.dev
+aurora@artsnoa.com
