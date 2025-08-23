@@ -19,3 +19,6 @@
 2025 | MakeDNS.net 개발 (https://makedns.net)  
 2025 | 비공개 - 스토리지 엔진 개발  
 2025 |   
+
+## 이메일
+mirseo@mirseo.dev
