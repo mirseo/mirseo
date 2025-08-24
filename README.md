@@ -18,7 +18,7 @@
 2025 | 마이픽오더 개발 (https://mypickorder.com)  
 2025 | MakeDNS.net 개발 (https://makedns.net)  
 2025 | 비공개 - 스토리지 엔진 개발  
-2025 |   
+2025 | RUST 기반 String-formatter 개발 (https://github.com/mirseo/string-formatter)  
 
 ## 이메일
 aurora@artsnoa.com
