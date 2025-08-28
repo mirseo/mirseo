@@ -19,6 +19,7 @@
 2025 | MakeDNS.net 개발 (https://makedns.net)  
 2025 | 비공개 - 스토리지 엔진 개발  
 2025 | RUST 기반 String-formatter 개발 (https://github.com/mirseo/string-formatter)  
+2025 | 크롬 확장 프로그램 KoreaSelector 개발 (https://koreasel.mirseo.dev, https://github.com/mirseo/WhereIsKorea-Extensions)   
 
 ## 이메일
 aurora@artsnoa.com
