@@ -24,7 +24,8 @@
 2025 | RUST 기반 Nano-DRM 개발(디지털 워터마킹 라이브러리) (https://github.com/mirseo/nano-drm)   
 2025 | Github(깃허브) 버전관리 교육용 프레젠테이션 디자인(C-2025-034423) 저작권 등록  
 2025 | 크롬 확장 프로그램 KoreaSelector 게시 (https://chromewebstore.google.com/detail/koreaselector/oihlnoclkmpgodngpdlgiedhgoegmmoh)  
-2025 | Proxmox LXC 환경에서 TAILSCALE 용 TUN을 활성화하는 스크립트 제작 (https://github.com/mirseo/proxmox-lxc-tailscale-injector)   2025 | Rust 기반 SSH 브릿지, NotionSSH (2.0) 개발 (https://github.com/mirseo/notionSSH)  
+2025 | Proxmox LXC 환경에서 TAILSCALE 용 TUN을 활성화하는 스크립트 제작 (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
+2025 | Rust 기반 SSH 브릿지, NotionSSH (2.0) 개발 (https://github.com/mirseo/notionSSH)  
 
 
 
