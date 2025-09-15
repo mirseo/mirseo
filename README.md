@@ -31,6 +31,7 @@
 ## 런칭 대기
 2025.09 | Dockpose.com  
 2025.09 | Patendify.com  
+2025.09 | Dockpose Designs (NPM Lib)  
 
 ## 이메일
 aurora@artsnoa.com
