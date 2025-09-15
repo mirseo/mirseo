@@ -28,7 +28,8 @@
 2025 | Rust 기반 SSH 브릿지, NotionSSH (2.0) 개발 (https://github.com/mirseo/notionSSH)  
 
 
-
+## 런칭 대기
+2025.09 | Dockpose.com  
 
 ## 이메일
 aurora@artsnoa.com
