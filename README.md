@@ -34,7 +34,9 @@
 2025.09 | Dockpose Designs (NPM Lib)  
 
 ## 이메일
-aurora@artsnoa.com
+aurora@artsnoa.com  
+aurora@dockpose.com  
+aurora@makedns.net  
 
 ## 공지
 2025-09-12 | 공급망 침해 공격 조치 완료
