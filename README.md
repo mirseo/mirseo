@@ -26,10 +26,10 @@
 2025 | 크롬 확장 프로그램 KoreaSelector 게시 (https://chromewebstore.google.com/detail/koreaselector/oihlnoclkmpgodngpdlgiedhgoegmmoh)  
 2025 | Proxmox LXC 환경에서 TAILSCALE 용 TUN을 활성화하는 스크립트 제작 (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
 2025 | Rust 기반 SSH 브릿지, NotionSSH (2.0) 개발 (https://github.com/mirseo/notionSSH)  
+2025 | Docker Run to Compose 변환 어플리케이션 Dockpose.com 개발 (https://dockpose.com|BETA)  
 
 
 ## 런칭 대기
-2025.09 | Dockpose.com  
 2025.09 | Patendify.com  
 2025.09 | Dockpose Designs (NPM Lib)  
 
