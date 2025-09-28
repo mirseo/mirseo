@@ -43,6 +43,7 @@ aurora@dockpose.com
 aurora@makedns.net  
 
 ## Announcements
-2025-09-12 | Supply Chain Attack Mitigation Completed
+2025-09-12 | Supply Chain Attack Mitigation Completed  
+2025-09-28 | Reached 5,000 commits in the past year
 
 
