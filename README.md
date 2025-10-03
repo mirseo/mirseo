@@ -44,6 +44,7 @@ aurora@makedns.net
 
 ## Announcements
 2025-09-12 | Supply Chain Attack Mitigation Completed  
-2025-09-28 | Reached 5,000 commits in the past year
+2025-09-28 | Reached 5,000 commits in the past year  
+2025-10-03 | Fix Issue on Dockpose.com (Deploy CI/CD Error)  
 
 
