@@ -36,6 +36,7 @@
 2025.10 | Patendify.com (Postponed)  
 2025.10 | Dockpose Designs (NPM Lib) (Postponed)  
 2025.10 | TBD  
+2025.10 | JSilicon - (https://github.com/mirseo/JSilicon)  
 
 ## Email
 aurora@artsnoa.com  
@@ -46,5 +47,6 @@ aurora@makedns.net
 2025-09-12 | Supply Chain Attack Mitigation Completed  
 2025-09-28 | Reached 5,000 commits in the past year  
 2025-10-03 | Fix Issue on Dockpose.com (Deploy CI/CD Error)  
+
 
 
