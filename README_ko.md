@@ -37,7 +37,8 @@
 ## 런칭 대기
 2025.10 | Patendify.com (연기)  
 2025.10 | Dockpose Designs (NPM Lib) (연기)  
-2025.10 | 미정. 
+2025.10 | 미정.  
+2025.10 | JSilicon - (https://github.com/mirseo/JSilicon)  
 
 ## 이메일
 aurora@artsnoa.com  
