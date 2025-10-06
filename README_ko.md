@@ -19,18 +19,18 @@
 2023 | 대학교 로드맵 경진대회 우수상  
 2023 | 대학교 특허 IP 경진대회 센터장상  
 2024 | 군 복무 (24.5.13~)  
-2025 | 마이픽오더 개발 (https://mypickorder.com)  
-2025 | MakeDNS.net 개발 (https://makedns.net)  
-2025 | 비공개 - 스토리지 엔진 개발  
-2025 | RUST 기반 String-formatter 개발 (https://github.com/mirseo/string-formatter)  
-2025 | 크롬 확장 프로그램 KoreaSelector 개발 (https://koreasel.mirseo.dev, https://github.com/mirseo/WhereIsKorea-Extensions)  
-2025 | 머신러닝 알고리즘 교육용 프레젠테이션 디자인(C-2025-034244) 저작권등록     
-2025 | RUST 기반 Nano-DRM 개발(디지털 워터마킹 라이브러리) (https://github.com/mirseo/nano-drm)   
-2025 | Github(깃허브) 버전관리 교육용 프레젠테이션 디자인(C-2025-034423) 저작권 등록  
-2025 | 크롬 확장 프로그램 KoreaSelector 게시 (https://chromewebstore.google.com/detail/koreaselector/oihlnoclkmpgodngpdlgiedhgoegmmoh)  
-2025 | Proxmox LXC 환경에서 TAILSCALE 용 TUN을 활성화하는 스크립트 제작 (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
-2025 | Rust 기반 SSH 브릿지, NotionSSH (2.0) 개발 (https://github.com/mirseo/notionSSH)  
-2025 | Docker Run to Compose 변환 어플리케이션 Dockpose.com 개발[OBT] (https://dockpose.com)  
+2025 | [군 복무 기간 중] 마이픽오더 개발 (https://mypickorder.com)  
+2025 | [군 복무 기간 중] MakeDNS.net 개발 (https://makedns.net)  
+2025 | [군 복무 기간 중] 비공개 - 스토리지 엔진 개발  
+2025 | [군 복무 기간 중] RUST 기반 String-formatter 개발 (https://github.com/mirseo/string-formatter)  
+2025 | [군 복무 기간 중] 크롬 확장 프로그램 KoreaSelector 개발 (https://koreasel.mirseo.dev, https://github.com/mirseo/WhereIsKorea-Extensions)  
+2025 | [군 복무 기간 중] 머신러닝 알고리즘 교육용 프레젠테이션 디자인(C-2025-034244) 저작권등록     
+2025 | [군 복무 기간 중] RUST 기반 Nano-DRM 개발(디지털 워터마킹 라이브러리) (https://github.com/mirseo/nano-drm)   
+2025 | [군 복무 기간 중] Github(깃허브) 버전관리 교육용 프레젠테이션 디자인(C-2025-034423) 저작권 등록  
+2025 | [군 복무 기간 중] 크롬 확장 프로그램 KoreaSelector 게시 (https://chromewebstore.google.com/detail/koreaselector/oihlnoclkmpgodngpdlgiedhgoegmmoh)  
+2025 | [군 복무 기간 중] Proxmox LXC 환경에서 TAILSCALE 용 TUN을 활성화하는 스크립트 제작 (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
+2025 | [군 복무 기간 중] Rust 기반 SSH 브릿지, NotionSSH (2.0) 개발 (https://github.com/mirseo/notionSSH)  
+2025 | [군 복무 기간 중] Docker Run to Compose 변환 어플리케이션 Dockpose.com 개발[OBT] (https://dockpose.com)  
 
 
 
