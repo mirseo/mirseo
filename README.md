@@ -19,18 +19,18 @@
 2023 | University Roadmap Competition - Excellence Award  
 2023 | University Patent IP Competition - Center Director's Award  
 2024 | Military Service (May 13, 2024~)  
-2025 | Developed MyPickOrder (https://mypickorder.com)  
-2025 | Developed MakeDNS.net (https://makedns.net)  
-2025 | Confidential - Storage Engine Development  
-2025 | Developed RUST-based String-formatter (https://github.com/mirseo/string-formatter)  
-2025 | Developed Chrome Extension KoreaSelector (https://koreasel.mirseo.dev, https://github.com/mirseo/WhereIsKorea-Extensions)  
-2025 | Copyright Registration for Machine Learning Algorithm Educational Presentation Design (C-2025-034244)  
-2025 | Developed RUST-based Nano-DRM (Digital Watermarking Library) (https://github.com/mirseo/nano-drm)  
-2025 | Copyright Registration for Github Version Control Educational Presentation Design (C-2025-034423)  
-2025 | Published Chrome Extension KoreaSelector (https://chromewebstore.google.com/detail/koreaselector/oihlnoclkmpgodngpdlgiedhgoegmmoh)  
-2025 | Created Script to Enable TUN for TAILSCALE in Proxmox LXC Environment (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
-2025 | Developed Rust-based SSH Bridge, NotionSSH (2.0) (https://github.com/mirseo/notionSSH)  
-2025 | Developed Docker Run to Compose Conversion Application Dockpose.com [OBT] (https://dockpose.com)  
+2025 | [Military Service Achievement] Developed MyPickOrder (https://mypickorder.com)  
+2025 | [Military Service Achievement] Developed MakeDNS.net (https://makedns.net)  
+2025 | [Military Service Achievement] Confidential - Storage Engine Development  
+2025 | [Military Service Achievement] Developed RUST-based String-formatter (https://github.com/mirseo/string-formatter)  
+2025 | [Military Service Achievement] Developed Chrome Extension KoreaSelector (https://koreasel.mirseo.dev, https://github.com/mirseo/WhereIsKorea-Extensions)  
+2025 | [Military Service Achievement] Copyright Registration for Machine Learning Algorithm Educational Presentation Design (C-2025-034244)  
+2025 | [Military Service Achievement] Developed RUST-based Nano-DRM (Digital Watermarking Library) (https://github.com/mirseo/nano-drm)  
+2025 | [Military Service Achievement] Copyright Registration for Github Version Control Educational Presentation Design (C-2025-034423)  
+2025 | [Military Service Achievement] Published Chrome Extension KoreaSelector (https://chromewebstore.google.com/detail/koreaselector/oihlnoclkmpgodngpdlgiedhgoegmmoh)  
+2025 | [Military Service Achievement] Created Script to Enable TUN for TAILSCALE in Proxmox LXC Environment (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
+2025 | [Military Service Achievement] Developed Rust-based SSH Bridge, NotionSSH (2.0) (https://github.com/mirseo/notionSSH)  
+2025 | [Military Service Achievement] Developed Docker Run to Compose Conversion Application Dockpose.com [OBT] (https://dockpose.com)  
 
 ## Upcoming Launches
 2025.10 | Patendify.com (Postponed)  
