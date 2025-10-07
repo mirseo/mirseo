@@ -31,12 +31,12 @@
 2025 | [Military Service Achievement] Created Script to Enable TUN for TAILSCALE in Proxmox LXC Environment (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
 2025 | [Military Service Achievement] Developed Rust-based SSH Bridge, NotionSSH (2.0) (https://github.com/mirseo/notionSSH)  
 2025 | [Military Service Achievement] Developed Docker Run to Compose Conversion Application Dockpose.com [OBT] (https://dockpose.com)  
+2025 | [Military Service Achievement] A dual-mode 8-bit CPU/ALU core built from scratch. v0.2 JSilicon - (https://github.com/mirseo/JSilicon)   
 
 ## Upcoming Launches
 2025.10 | Patendify.com (Postponed)  
 2025.10 | Dockpose Designs (NPM Lib) (Postponed)  
 2025.10 | TBD  
-2025.10 | JSilicon - (https://github.com/mirseo/JSilicon)  
 
 ## Email
 aurora@artsnoa.com  
