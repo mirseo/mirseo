@@ -31,6 +31,7 @@
 2025 | [군 복무 기간 중] Proxmox LXC 환경에서 TAILSCALE 용 TUN을 활성화하는 스크립트 제작 (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
 2025 | [군 복무 기간 중] Rust 기반 SSH 브릿지, NotionSSH (2.0) 개발 (https://github.com/mirseo/notionSSH)  
 2025 | [군 복무 기간 중] Docker Run to Compose 변환 어플리케이션 Dockpose.com 개발[OBT] (https://dockpose.com)  
+2025 | [군 복무 기간 중] 두 가지 Mode를 지원하는 처음부터 직접 설계한 CPU/ALU Core V0.2, JSilicon - (https://github.com/mirseo/JSilicon)    
 
 
 
@@ -38,7 +39,6 @@
 2025.10 | Patendify.com (연기)  
 2025.10 | Dockpose Designs (NPM Lib) (연기)  
 2025.10 | 미정.  
-2025.10 | JSilicon - (https://github.com/mirseo/JSilicon)  
 
 ## 이메일
 aurora@artsnoa.com  
