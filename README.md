@@ -34,9 +34,9 @@
 2025 | [Military Service Achievement] A dual-mode 8-bit CPU/ALU core built from scratch. v0.2 JSilicon - (https://github.com/mirseo/JSilicon)   
 
 ## Upcoming Launches
-2025.10 | Patendify.com (Postponed)  
-2025.10 | Dockpose Designs (NPM Lib) (Postponed)  
-2025.10 | TBD  
+2025.12 | Patendify.com (Postponed)  
+2025.12 | Dockpose Designs (NPM Lib) (Postponed)  
+2025.12 | TBD  
 
 ## Email
 aurora@artsnoa.com  
