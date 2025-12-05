@@ -52,6 +52,13 @@ aurora@makedns.net
 ## Patent pending
 1020250169883 | System and Method for Executing Heterogeneous OS Applications Using Edge-Based System Call Translation  
 1020250162696 | Edge Computing-Based System and Method for Decentralized License Verification  
+1020250135004 | Metaverse character implementation device  
+1020230132111 | Secure IP camera access system and method using virtual private network and access token  
+1020230131350 | One-time cloud file upload system without login using transmission code  
+1020230116566 | Remote Control Smart Drain  
+1020240031519 | Method for managing works by applying NFT to collaboration with novel creation  
+1020230127544 | Cloud system access control technique using a virtual private network that does not store user instance access keys on a cloud-operated server  
+1020230123580 | User authentication techniques using passwordless virtual keys and hardware keys  
 
 ## Design Colors
 | Role | Color Badge | HEX | RGB |
