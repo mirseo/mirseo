@@ -4,6 +4,15 @@
 - [🇰🇷 한국어](README_ko.md)
 - [🇺🇸 English](README.md)
 
+### CliftonStrengths Top 5 ✦
+| Rank | Theme | Type |
+| :---: | :---: | :--- |
+| 1 | 발상 (Ideation) | 전략적 사고 (Strategic Thinking) | 
+| 2 | 전략 (Strategic) | 전략적 사고 (Strategic Thinking) | 
+| 3 | 성취 (Achiever) | 실행력 (Execution) | 
+| 4 | 집중 (Focus) | 실행력 (Execution) | 
+| 5 | 심사숙고 (Deliberative) | 실행력 (Execution) |
+
 ### 이력
 2022 | Arisia.space ( 설립 )  
 2023 | 대학교 발명경진대회 테크노밸리상  
