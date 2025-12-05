@@ -49,6 +49,10 @@ aurora@makedns.net
 2025-10-03 | Fix Issue on Dockpose.com (Deploy CI/CD Error)  
 2025-11-12 | Completion and discharge from military service  
 
+## Patent pending
+1020250169883 | System and Method for Executing Heterogeneous OS Applications Using Edge-Based System Call Translation  
+1020250162696 | Edge Computing-Based System and Method for Decentralized License Verification  
+
 ## Design Colors
 | Role | Color Badge | HEX | RGB |
 | :--- | :--- | :---: | :---: |
