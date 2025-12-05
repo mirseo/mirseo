@@ -4,6 +4,15 @@
 - [🇰🇷 한국어](README_ko.md)
 - [🇺🇸 English](README.md)
 
+### CliftonStrengths Top 5 ✦
+| Rank | Theme | Type |
+| :---: | :---: | :--- |
+| 1 | Ideation | Strategic Thinking | 
+| 2 | Strategic | Strategic Thinking | 
+| 3 | Achiever | Execution | 
+| 4 | Focus | Execution | 
+| 5 | Deliberative | Execution |
+
 ### Career History
 2022 | Founded Arisia.space  
 2023 | University Invention Competition - Techno Valley Award  
