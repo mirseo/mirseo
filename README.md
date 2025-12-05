@@ -60,6 +60,12 @@ aurora@makedns.net
 1020230127544 | Cloud system access control technique using a virtual private network that does not store user instance access keys on a cloud-operated server  
 1020230123580 | User authentication techniques using passwordless virtual keys and hardware keys  
 
+## Copyrights
+C-2025-034423 | Github Version Control Educational Presentation Design  
+C-2025-034244 | Machine Learning Algorithm Educational Presentation Design  
+C-2024-016744 | Source code for educational materials on computer statistical system programming    
+C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NFTs    
+
 ## Design Colors
 | Role | Color Badge | HEX | RGB |
 | :--- | :--- | :---: | :---: |
