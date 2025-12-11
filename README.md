@@ -41,7 +41,7 @@
 2025 | [Military Service Achievement] Developed Rust-based SSH Bridge, NotionSSH (2.0) (https://github.com/mirseo/notionSSH)  
 2025 | [Military Service Achievement] Developed Docker Run to Compose Conversion Application Dockpose.com [OBT] (https://dockpose.com)  
 2025 | [Military Service Achievement] A dual-mode 8-bit CPU/ALU core built from scratch. v0.2 JSilicon - (https://github.com/mirseo/JSilicon)   
-2025 | A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. [OBT](https://saibius.com)
+2025 | A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. [OBT] (https://saibius.com)  
 
 ## Upcoming Launches
 2025.12 | Patendify.com (Postponed)  
