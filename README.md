@@ -93,7 +93,7 @@ A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic
 https://github.com/user-attachments/assets/f413ad10-67d7-4d6b-b981-d45dbcfb6eed
 
 ### Math Express 
-- A system that recognizes users' formulas using AI and AST systems.  
+A system that recognizes users' formulas using AI and AST systems.  
 
 https://github.com/user-attachments/assets/b78810d3-e727-44d5-8fae-890bb629e127
 
