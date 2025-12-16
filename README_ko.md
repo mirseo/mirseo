@@ -88,3 +88,8 @@ C-2024-009110 | 블록체인 네트워크와 NFT를 사용한 다중 접속형 �
 | **Surface** | ![Surface](https://img.shields.io/badge/Surface-1a1a1a?style=flat-square&color=1a1a1a&labelColor=1a1a1a) | `#1a1a1a` | `26, 26, 26` |
 | **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |
 
+## Recent project  ( Math Express )
+- AI와 AST 의사 시스템을 활용하여 사용자의 수식을 인식하는 시스템
+
+https://github.com/user-attachments/assets/b78810d3-e727-44d5-8fae-890bb629e127
+
