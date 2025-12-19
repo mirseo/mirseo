@@ -39,7 +39,7 @@
 2025 | [Military Service Achievement] Published Chrome Extension KoreaSelector (https://chromewebstore.google.com/detail/koreaselector/oihlnoclkmpgodngpdlgiedhgoegmmoh)  
 2025 | [Military Service Achievement] Created Script to Enable TUN for TAILSCALE in Proxmox LXC Environment (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
 2025 | [Military Service Achievement] Developed Rust-based SSH Bridge, NotionSSH (2.0) (https://github.com/mirseo/notionSSH)  
-2025 | [Military Service Achievement] Developed Docker Run to Compose Conversion Application Dockpose.com [OBT] (https://dockpose.com)  
+2025 | [Military Service Achievement] Developed Docker Run to Compose Conversion Application Dockpose.com (https://dockpose.com)  
 2025 | [Military Service Achievement] A dual-mode 8-bit CPU/ALU core built from scratch. v0.2 JSilicon - (https://github.com/mirseo/JSilicon)   
 2025 | A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. [OBT] (https://saibius.com)  
 
@@ -96,6 +96,12 @@ https://github.com/user-attachments/assets/f413ad10-67d7-4d6b-b981-d45dbcfb6eed
 A system that recognizes users' formulas using AI and AST systems.  
 
 https://github.com/user-attachments/assets/b78810d3-e727-44d5-8fae-890bb629e127
+
+### Dockpose
+Developed Docker Run to Compose Conversion Application Dockpose.com  
+
+https://github.com/user-attachments/assets/1d211337-9dd6-4667-a305-73069233f61a
+
 
 
 
