@@ -88,6 +88,11 @@ C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NF
 | **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |
 
 ## Recent project
+### Artsnoa
+Turning imagination into reality, creating the official website for Artsnoa, a startup filled with my own memories.  
+
+https://github.com/user-attachments/assets/aad22936-c386-469e-acef-04d41dbec34d
+
 ### Saibius ( Saibius.com )  
 A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers.  
 
