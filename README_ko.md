@@ -42,7 +42,7 @@
 2025 | [군 복무 기간 중] Docker Run to Compose 변환 어플리케이션 Dockpose.com 개발 (https://dockpose.com)  
 2025 | [군 복무 기간 중] 두 가지 Mode를 지원하는 처음부터 직접 설계한 CPU/ALU Core V0.2, JSilicon - (https://github.com/mirseo/JSilicon)   
 2025 | ZeroCopy, 동적 배치사이즈, Http Range를 지원하는 러스트로 작성된 3MB 마이크로 파일서버 - [OBT]  (https://saibius.com)  
-2025 | 상상을 현실로, 저만의 기억을 담은 스타트업 아트노아의 공식 홈페이지 제작 (https://artsnoa.com)  
+2025 | 상상을 현실로, 저만의 기억을 담은 스타트업 아트노아(Artsnoa)의 공식 홈페이지 제작 (https://artsnoa.com)  
 
 
 
