@@ -90,6 +90,12 @@ C-2024-009110 | 블록체인 네트워크와 NFT를 사용한 다중 접속형 �
 | **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |
 
 ## Recent project
+
+### Artsnoa
+상상을 현실로, 저만의 기억을 담은 스타트업 아트노아(Artsnoa)의 공식 홈페이지 제작  
+
+https://github.com/user-attachments/assets/5a9fe6f8-8dc4-4823-8099-f8c9e6139c68
+
 ### Saibius ( Saibius.com )  
 ZeroCopy, 동적 배치사이즈, Http Range를 지원하는 러스트로 작성된 3MB 마이크로 파일서버  
 
