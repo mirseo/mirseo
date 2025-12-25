@@ -43,8 +43,7 @@
 2025 | [군 복무 기간 중] 두 가지 Mode를 지원하는 처음부터 직접 설계한 CPU/ALU Core V0.2, JSilicon - (https://github.com/mirseo/JSilicon)   
 2025 | ZeroCopy, 동적 배치사이즈, Http Range를 지원하는 러스트로 작성된 3MB 마이크로 파일서버 - [OBT]  (https://saibius.com)  
 2025 | 상상을 현실로, 저만의 기억을 담은 스타트업 아트노아(Artsnoa)의 공식 홈페이지 제작 (https://artsnoa.com)  
-
-
+2025 | usiaMCP는 사용자의 이메일 주소에 대한 다크웹 등의 유출 여부를 검사하고, 사용자가 즉시 조치할 수 있도록 관련 조치를 STEP-BY-STEP으로 제공하는 MCP 서버입니다. (https://usia.artsnoa.com/sse)  
 
 ## 런칭 대기
 2025.12 | Patendify.com (연기)  
@@ -90,6 +89,10 @@ C-2024-009110 | 블록체인 네트워크와 NFT를 사용한 다중 접속형 �
 | **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |
 
 ## Recent project
+### USIA MCP (유시아 MCP)  
+usiaMCP는 사용자의 이메일 주소에 대한 다크웹 등의 유출 여부를 검사하고, 사용자가 즉시 조치할 수 있도록 관련 조치를 STEP-BY-STEP으로 제공하는 MCP 서버입니다.
+
+https://github.com/user-attachments/assets/7dd2a854-b788-4cd2-80bd-e188b21b267f
 
 ### Artsnoa
 상상을 현실로, 저만의 기억을 담은 스타트업 아트노아(Artsnoa)의 공식 홈페이지 제작  
