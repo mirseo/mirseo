@@ -43,6 +43,7 @@
 2025 | [Military Service Achievement] A dual-mode 8-bit CPU/ALU core built from scratch. v0.2 JSilicon - (https://github.com/mirseo/JSilicon)   
 2025 | A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. [OBT] (https://saibius.com)  
 2025 | Turning imagination into reality, creating the official website for Artsnoa, a startup filled with my own memories. (https://artsnoa.com)  
+2025 | usiaMCP is an MCP server that checks if a user's email address has been leaked on the dark web and provides step-by-step instructions for immediate remedial action. (https://usia.artsnoa.com/sse)  
 
 ## Upcoming Launches
 2025.12 | Patendify.com (Postponed)  
@@ -88,6 +89,11 @@ C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NF
 | **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |
 
 ## Recent project
+### USIA MCP  
+usiaMCP is an MCP server that checks if a user's email address has been leaked on the dark web and provides step-by-step instructions for immediate remedial action.  
+
+https://github.com/user-attachments/assets/5016945c-7053-40d7-bd0a-53f04126820e
+
 ### Artsnoa
 Turning imagination into reality, creating the official website for Artsnoa, a startup filled with my own memories.  
 
