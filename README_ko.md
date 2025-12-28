@@ -41,14 +41,9 @@
 2025 | [군 복무 기간 중] Rust 기반 SSH 브릿지, NotionSSH (2.0) 개발 (https://github.com/mirseo/notionSSH)  
 2025 | [군 복무 기간 중] Docker Run to Compose 변환 어플리케이션 Dockpose.com 개발 (https://dockpose.com)  
 2025 | [군 복무 기간 중] 두 가지 Mode를 지원하는 처음부터 직접 설계한 CPU/ALU Core V0.2, JSilicon - (https://github.com/mirseo/JSilicon)   
-2025 | ZeroCopy, 동적 배치사이즈, Http Range를 지원하는 러스트로 작성된 3MB 마이크로 파일서버 - [OBT]  (https://saibius.com)  
+2025 | ZeroCopy, 동적 배치사이즈, Http Range를 지원하는 러스트로 작성된 3MB 마이크로 파일서버 - (https://saibius.com)  
 2025 | 상상을 현실로, 저만의 기억을 담은 스타트업 아트노아(Artsnoa)의 공식 홈페이지 제작 (https://artsnoa.com)  
 2025 | usiaMCP는 사용자의 이메일 주소에 대한 다크웹 등의 유출 여부를 검사하고, 사용자가 즉시 조치할 수 있도록 관련 조치를 STEP-BY-STEP으로 제공하는 MCP 서버입니다. (https://usia.artsnoa.com/sse)  
-
-## 런칭 대기
-2025.12 | Patendify.com (연기)  
-2025.12 | Dockpose Designs (NPM Lib) (연기)  
-2025.12 | 미정.  
 
 ## 이메일
 aurora@artsnoa.com  
@@ -60,6 +55,7 @@ aurora@makedns.net
 2025-09-28 | 최근 1년간 5,000 커밋 달성   
 2025-10-03 | Dockpose.com 배포 오류 해결 (CI/CD 배포 오류)  
 2025-11-12 | 군 복무 완료 및 복학 예정  
+2025-12-28 | December 29th, 2025 12:01 AM PST. 드디어 Saibius.com이 정식 출시합니다. 감사합니다 :)  
 
 ## 출원 중인 특허  
 1020250169883 | 엣지 기반 시스템 콜 변환을 이용한 이종 OS 애플리케이션 실행 시스템 및 방법  
