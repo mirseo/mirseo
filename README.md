@@ -44,6 +44,7 @@
 2025 | A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. (https://saibius.com)  
 2025 | Turning imagination into reality, creating the official website for Artsnoa, a startup filled with my own memories. (https://artsnoa.com)  
 2025 | usiaMCP is an MCP server that checks if a user's email address has been leaked on the dark web and provides step-by-step instructions for immediate remedial action. (https://usia.artsnoa.com/sse)  
+2025 | Saibius' Product Hunt officially launches and launches service. (https://www.producthunt.com/products/saibius)   
 
 ## Email
 aurora@artsnoa.com  
