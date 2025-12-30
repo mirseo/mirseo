@@ -43,7 +43,7 @@
 2025 | [군 복무 기간 중] 두 가지 Mode를 지원하는 처음부터 직접 설계한 CPU/ALU Core V0.2, JSilicon - (https://github.com/mirseo/JSilicon)   
 2025 | ZeroCopy, 동적 배치사이즈, Http Range를 지원하는 러스트로 작성된 3MB 마이크로 파일서버 - (https://saibius.com)  
 2025 | 상상을 현실로, 저만의 기억을 담은 스타트업 아트노아(Artsnoa)의 공식 홈페이지 제작 (https://artsnoa.com)  
-2025 | usiaMCP는 사용자의 이메일 주소에 대한 다크웹 등의 유출 여부를 검사하고, 사용자가 즉시 조치할 수 있도록 관련 조치를 STEP-BY-STEP으로 제공하는 MCP 서버입니다. (https://usia.artsnoa.com/sse)  
+2025 | usiaMCP는 사용자의 이메일 주소에 대한 다크웹 등의 유출 여부를 검사하고, 사용자가 즉시 조치할 수 있도록 관련 조치를 STEP-BY-STEP으로 제공하는 MCP 서버입니다. (https://playmcp.kakao.com/mcp/264)  
 2025 | Saibius의 Product Hunt 공식 출시 및 서비스 개시 (https://www.producthunt.com/products/saibius)  
 
 ## 이메일
