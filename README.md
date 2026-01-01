@@ -112,6 +112,15 @@ Developed Docker Run to Compose Conversion Application Dockpose.com
 https://github.com/user-attachments/assets/1d211337-9dd6-4667-a305-73069233f61a
 
 
+## 2025 Logs
+---
+<details>
+    <summary>Detail image</summary>
+
+  <img width="788" height="1388" alt="git-wrapped-mirseo" src="https://github.com/user-attachments/assets/7c1912c3-cbab-4b7a-a82b-63318e72795c" />
+</details>
+
+
 
 
 
