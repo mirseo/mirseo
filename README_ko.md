@@ -45,6 +45,7 @@
 2025 | 상상을 현실로, 저만의 기억을 담은 스타트업 아트노아(Artsnoa)의 공식 홈페이지 제작 (https://artsnoa.com)  
 2025 | usiaMCP는 사용자의 이메일 주소에 대한 다크웹 등의 유출 여부를 검사하고, 사용자가 즉시 조치할 수 있도록 관련 조치를 STEP-BY-STEP으로 제공하는 MCP 서버입니다. (https://playmcp.kakao.com/mcp/264)  
 2025 | Saibius의 Product Hunt 공식 출시 및 서비스 개시 (https://www.producthunt.com/products/saibius)  
+2026 | Windows 및 Linux 환경에서 Tailscale TPM 인식 오류를 해결하기 위해 TPM 바인딩 상태를 재설정하는 유틸리티 (TTF)(https://github.com/mirseo/tailscale-tpm-fixer)  
 
 ## 이메일
 aurora@artsnoa.com  
