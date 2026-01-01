@@ -110,3 +110,12 @@ https://github.com/user-attachments/assets/b78810d3-e727-44d5-8fae-890bb629e127
 Docker Run to Compose 변환 어플리케이션 Dockpose.com 개발  
 
 https://github.com/user-attachments/assets/1d211337-9dd6-4667-a305-73069233f61a
+
+
+## 2025 기록
+---
+<details>
+    <summary>상세 이미지</summary>
+
+  <img width="788" height="1388" alt="git-wrapped-mirseo" src="https://github.com/user-attachments/assets/7c1912c3-cbab-4b7a-a82b-63318e72795c" />
+</details>
