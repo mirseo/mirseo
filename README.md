@@ -46,6 +46,7 @@
 2025 | usiaMCP is an MCP server that checks if a user's email address has been leaked on the dark web and provides step-by-step instructions for immediate remedial action. (https://playmcp.kakao.com/mcp/264)      
 2025 | Saibius' Product Hunt officially launches and launches service. (https://www.producthunt.com/products/saibius)   
 2026 | A utility to resolve Tailscale TPM recognition errors on Windows & Linux by resetting the TPM-bound state. (TTF)(https://github.com/mirseo/tailscale-tpm-fixer)  
+2026 | SORI (Sori): Acquired copyright for digital idol goods display design (C-2026-001286)  
 
 ## Email
 aurora@artsnoa.com  
@@ -71,6 +72,7 @@ aurora@makedns.net
 1020230123580 | User authentication techniques using passwordless virtual keys and hardware keys  
 
 ## Copyrights
+C-2026-001286 | SORI: Digital Idol Goods Display Design  
 C-2025-057100 | Saibius -  A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. (Computer program copyright. All source code and executable files.)  
 C-2025-034423 | Github Version Control Educational Presentation Design  
 C-2025-034244 | Machine Learning Algorithm Educational Presentation Design  
