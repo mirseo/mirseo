@@ -46,6 +46,7 @@
 2025 | usiaMCP는 사용자의 이메일 주소에 대한 다크웹 등의 유출 여부를 검사하고, 사용자가 즉시 조치할 수 있도록 관련 조치를 STEP-BY-STEP으로 제공하는 MCP 서버입니다. (https://playmcp.kakao.com/mcp/264)  
 2025 | Saibius의 Product Hunt 공식 출시 및 서비스 개시 (https://www.producthunt.com/products/saibius)  
 2026 | Windows 및 Linux 환경에서 Tailscale TPM 인식 오류를 해결하기 위해 TPM 바인딩 상태를 재설정하는 유틸리티 (TTF)(https://github.com/mirseo/tailscale-tpm-fixer)  
+2026 | SORI(소리) : 디지털 아이돌 굿즈 디스플레이 디자인 저작권 취득 (C-2026-001286)  
 
 ## 이메일
 aurora@artsnoa.com  
@@ -71,6 +72,7 @@ aurora@makedns.net
 1020230123580 | 비밀번호 없는 가상키와 하드웨어 키를 이용한 사용자 인증 기법  
 
 ## 보유 저작권
+C-2026-001286 | SORI(소리) : 디지털 아이돌 굿즈 디스플레이 디자인 저작권 (일반/미술저작물)  
 C-2025-057100 | Saibius - ZeroCopy, 동적 배치사이즈, Http Range를 지원하는 러스트로 작성된 3MB 마이크로 파일서버 (컴퓨터 프로그램 저작권. 소스코드 및 실행파일 전체)  
 C-2025-034423 | Github(깃허브) 버전관리 교육용 프레젠테이션 디자인  
 C-2025-034244 | 머신러닝 알고리즘 교육용 프레젠테이션 디자인  
