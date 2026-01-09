@@ -61,6 +61,7 @@ aurora@makedns.net
 2025-12-28 | December 29, 2025, 12:01 AM PST. Saibius.com is finally officially launched. Thank you :)  
 
 ## Patent pending
+1020260004713 | Method and System for Language Model Inference Using CPU-based Subsequent Attention Computation  
 1020250169883 | System and Method for Executing Heterogeneous OS Applications Using Edge-Based System Call Translation  
 1020250162696 | Edge Computing-Based System and Method for Decentralized License Verification  
 1020250135004 | Metaverse character implementation device  
