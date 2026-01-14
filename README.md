@@ -80,7 +80,7 @@ C-2024-016744 | Source code for educational materials on computer statistical sy
 C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NFTs 
 
 ## Books
-MONO12025000008077 | Co-author of Probability and Statistics with Python: Hands-on Coding Learning  
+[MONO12025000008077](https://dl.nanet.go.kr/detail/MONO12025000008077) | Co-author of Probability and Statistics with Python: Hands-on Coding Learning  
 
 ## Design Colors
 | Role | Color Badge | HEX | RGB |
