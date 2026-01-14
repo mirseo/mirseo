@@ -77,7 +77,10 @@ C-2025-057100 | Saibius -  A 3MB file server written in Rust, supporting HTTP Ra
 C-2025-034423 | Github Version Control Educational Presentation Design  
 C-2025-034244 | Machine Learning Algorithm Educational Presentation Design  
 C-2024-016744 | Source code for educational materials on computer statistical system programming    
-C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NFTs    
+C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NFTs 
+
+## Books
+MONO12025000008077 | Co-author of Probability and Statistics with Python: Hands-on Coding Learning  
 
 ## Design Colors
 | Role | Color Badge | HEX | RGB |
