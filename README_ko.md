@@ -79,11 +79,6 @@ C-2025-034244 | 머신러닝 알고리즘 교육용 프레젠테이션 디자인
 C-2024-016744 | 컴퓨터 통계 시스템 프로그래밍을 위한 교육자료 소스코드    
 C-2024-009110 | 블록체인 네트워크와 NFT를 사용한 다중 접속형 스토리 제작 방법 
 
-## 저서 유출 여부를 검사하고, 사용자가 즉시 조치할 수 있도록 관련 조치를 STEP-BY-STEP으로 제공하는 MCP 서버입니다. (https://playmcp.kakao.com/mcp/264)  
-2025 | Saibius의 Product Hunt 공식 출시 및 서비스 개시 (https://www.producthunt.com/products/saibius)  
-2026 | Windows 및 Linux 환경에서 Tailscale TPM 인식 오류를 해결하기 위해 TPM 바인딩 상태를 재설정하는 유틸리티 (TTF)(https://github.com/mirseo/tailscale-tpm-fixer)  
-2026 | SORI(소리) : 디지털 아이돌 굿즈 디스플레이 디자인 저작권 취득 (C-2026-001286)  
-
 ## 이메일
 aurora@artsnoa.com  
 aurora@dockpose.com  
