@@ -88,6 +88,7 @@ aurora@artsnoa.com
 2025-10-03 | Dockpose.com 배포 오류 해결 (CI/CD 배포 오류)  
 2025-11-12 | 군 복무 완료 및 복학 예정  
 2025-12-28 | December 29th, 2025 12:01 AM PST. 드디어 Saibius.com이 정식 출시합니다. 감사합니다 :)  
+2026-01-20 | 자체 개발 CPU JSilicon 6월에 실제로 나온대요!! (https://tinytapeout.com/chips/ttsky25b/tt_um_Jsilicon) - ✦  
 
 ## 출원 중인 특허  
 1020250169883 | 엣지 기반 시스템 콜 변환을 이용한 이종 OS 애플리케이션 실행 시스템 및 방법  
