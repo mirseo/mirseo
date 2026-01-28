@@ -73,6 +73,7 @@ aurora@makedns.net
 1020230123580 | User authentication techniques using passwordless virtual keys and hardware keys  
 
 ## Copyrights
+C-2026-005796 | NextAttention - Artificial intelligence inference code copyright  
 C-2026-001286 | SORI: Digital Idol Goods Display Design  
 C-2025-057100 | Saibius -  A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. (Computer program copyright. All source code and executable files.)  
 C-2025-034423 | Github Version Control Educational Presentation Design  
