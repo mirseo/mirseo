@@ -47,6 +47,7 @@
 2025 | Saibius' Product Hunt officially launches and launches service. (https://www.producthunt.com/products/saibius)   
 2026 | A utility to resolve Tailscale TPM recognition errors on Windows & Linux by resetting the TPM-bound state. (TTF)(https://github.com/mirseo/tailscale-tpm-fixer)  
 2026 | SORI (Sori): Acquired copyright for digital idol goods display design (C-2026-001286)  
+2026 | Intelligent Information Systems Laboratory (LAB) University Lab Director  
 
 ## Email
 aurora@artsnoa.com  
