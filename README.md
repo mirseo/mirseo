@@ -14,7 +14,7 @@
 | 5 | Deliberative | Execution |
 
 ### Career History
-2016 | Naver Knowledge-iN Expert Activity (Top 0.0372% / Top 50,000 People)  
+2019 | Naver Knowledge-iN Expert Activity (Top 0.0372% / Top 50,000 People)  
 2022 | Founded Arisia.space  
 2023 | University Invention Competition - Techno Valley Award  
 2023 | Intelligent Information Systems Laboratory (LAB)  
