@@ -47,6 +47,7 @@
 2025 | Saibius의 Product Hunt 공식 출시 및 서비스 개시 (https://www.producthunt.com/products/saibius)  
 2026 | Windows 및 Linux 환경에서 Tailscale TPM 인식 오류를 해결하기 위해 TPM 바인딩 상태를 재설정하는 유틸리티 (TTF)(https://github.com/mirseo/tailscale-tpm-fixer)  
 2026 | SORI(소리) : 디지털 아이돌 굿즈 디스플레이 디자인 저작권 취득 (C-2026-001286)  
+2026 | 지능정보 시스템 응용 실험실 ( LAB ) 대학교 연구실 랩장  
 
 ## 이메일
 aurora@artsnoa.com  
