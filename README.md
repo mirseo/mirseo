@@ -105,13 +105,15 @@ https://github.com/user-attachments/assets/5016945c-7053-40d7-bd0a-53f04126820e
 ### Artsnoa
 Turning imagination into reality, creating the official website for Artsnoa, a startup filled with my own memories.  
 
-https://github.com/user-attachments/assets/aad22936-c386-469e-acef-04d41dbec34d
+https://github.com/user-attachments/assets/aad22936-c386-469e-acef-04d41dbec34d  
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2f6cy.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 ### Saibius ( Saibius.com )  
 A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers.  
 
-https://github.com/user-attachments/assets/f413ad10-67d7-4d6b-b981-d45dbcfb6eed
+https://github.com/user-attachments/assets/f413ad10-67d7-4d6b-b981-d45dbcfb6eed  
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2f6d4.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 ### Math Express 
 A system that recognizes users' formulas using AI and AST systems.  
 
@@ -120,9 +122,9 @@ https://github.com/user-attachments/assets/b78810d3-e727-44d5-8fae-890bb629e127
 ### Dockpose
 Developed Docker Run to Compose Conversion Application Dockpose.com  
 
-https://github.com/user-attachments/assets/1d211337-9dd6-4667-a305-73069233f61a
+https://github.com/user-attachments/assets/1d211337-9dd6-4667-a305-73069233f61a  
 
-
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2f6da.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 ## 2025 Logs
 ---
 <details>
