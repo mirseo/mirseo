@@ -77,6 +77,9 @@ aurora@makedns.net
 1020230127544 | Cloud system access control technique using a virtual private network that does not store user instance access keys on a cloud-operated server  
 1020230123580 | User authentication techniques using passwordless virtual keys and hardware keys  
 
+## Trademark 
+4020240234769 | Application for and possession of trademark rights for "마이픽오더"   
+
 ## Copyrights
 C-2026-005796 | NextAttention - Artificial intelligence inference code copyright  
 C-2026-001286 | SORI: Digital Idol Goods Display Design  
