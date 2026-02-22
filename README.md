@@ -104,6 +104,7 @@ C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NF
 
 ## Certificate  
 <img width="120" height="120" alt="_e21b3fbfc17641d7803d731e64fd623f_image" src="https://github.com/user-attachments/assets/fb18c0f0-6ae6-42dd-8f54-0754b7bc229c" />  
+<img width="120" height="120" alt="cert2" src="https://github.com/user-attachments/assets/568b2b47-2b92-45ed-a385-ce29cf179fe2" />
 
 
 ## Recent project
