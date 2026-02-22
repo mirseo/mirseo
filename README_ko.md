@@ -133,6 +133,7 @@ C-2024-009110 | 블록체인 네트워크와 NFT를 사용한 다중 접속형 �
 
 ## 인증서  
 <img width="120" height="120" alt="_e21b3fbfc17641d7803d731e64fd623f_image" src="https://github.com/user-attachments/assets/fb18c0f0-6ae6-42dd-8f54-0754b7bc229c" />  
+<img width="120" height="120" alt="cert2" src="https://github.com/user-attachments/assets/266dd586-8fc9-447d-84cd-f59ac620bbca" />  
 
 ## Recent project
 ### USIA MCP (유시아 MCP)  
