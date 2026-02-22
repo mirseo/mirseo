@@ -129,7 +129,10 @@ C-2024-009110 | 블록체인 네트워크와 NFT를 사용한 다중 접속형 �
 | **Secondary** | ![Secondary](https://img.shields.io/badge/Secondary-fb7185?style=flat-square&color=fb7185&labelColor=fb7185) | `#fb7185` | `251, 113, 133` |
 | **Background** | ![Background](https://img.shields.io/badge/Background-0a0a0a?style=flat-square&color=0a0a0a&labelColor=0a0a0a) | `#0a0a0a` | `10, 10, 10` |
 | **Surface** | ![Surface](https://img.shields.io/badge/Surface-1a1a1a?style=flat-square&color=1a1a1a&labelColor=1a1a1a) | `#1a1a1a` | `26, 26, 26` |
-| **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |
+| **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |  
+
+## 인증서  
+<img width="120" height="120" alt="_e21b3fbfc17641d7803d731e64fd623f_image" src="https://github.com/user-attachments/assets/fb18c0f0-6ae6-42dd-8f54-0754b7bc229c" />  
 
 ## Recent project
 ### USIA MCP (유시아 MCP)  
