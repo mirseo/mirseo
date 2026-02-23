@@ -103,14 +103,27 @@ C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NF
 | **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |  
 
 ## Certificate  
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20Fundamentals.pdf">  
 <img width="120" height="120" alt="_e21b3fbfc17641d7803d731e64fd623f_image" src="https://github.com/user-attachments/assets/fb18c0f0-6ae6-42dd-8f54-0754b7bc229c" />  
+</a>  
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Brainstorming%20and%20Planning.pdf">  
 <img width="120" height="120" alt="cert2" src="https://github.com/user-attachments/assets/568b2b47-2b92-45ed-a385-ce29cf179fe2" />
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Research%20and%20Insights.pdf">  
 <img width="120" height="120" alt="cert3" src="https://github.com/user-attachments/assets/a1d99532-5e1e-4c21-853c-defbcc72818d" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20Writing%20and%20Communicating.pdf">  
 <img width="120" height="120" alt="cert4" src="https://github.com/user-attachments/assets/4733d7a4-93ca-40a5-8b94-33bb77fb2cc7" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Content%20Creation.pdf">  
 <img width="120" height="120" alt="cert5" src="https://github.com/user-attachments/assets/dca18c2d-5857-4d6e-92ff-d547b0c294c2" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20App%20Building.pdf">  
 <img width="120" height="120" alt="cert6" src="https://github.com/user-attachments/assets/93308bbf-ef34-4da7-b451-e055e94944ad" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Data%20Analysis.pdf">  
 <img width="120" height="120" alt="cert7" src="https://github.com/user-attachments/assets/8dc61dd9-7004-4a59-9b56-04b0c39797b1" />  
-
+</a>
 
 ## Recent project
 ### USIA MCP  
