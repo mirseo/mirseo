@@ -108,6 +108,9 @@ C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NF
 <img width="120" height="120" alt="cert3" src="https://github.com/user-attachments/assets/a1d99532-5e1e-4c21-853c-defbcc72818d" />  
 <img width="120" height="120" alt="cert4" src="https://github.com/user-attachments/assets/4733d7a4-93ca-40a5-8b94-33bb77fb2cc7" />  
 <img width="120" height="120" alt="cert5" src="https://github.com/user-attachments/assets/dca18c2d-5857-4d6e-92ff-d547b0c294c2" />  
+<img width="120" height="120" alt="cert6" src="https://github.com/user-attachments/assets/93308bbf-ef34-4da7-b451-e055e94944ad" />  
+<img width="120" height="120" alt="cert7" src="https://github.com/user-attachments/assets/8dc61dd9-7004-4a59-9b56-04b0c39797b1" />  
+
 
 ## Recent project
 ### USIA MCP  
