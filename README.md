@@ -82,6 +82,7 @@ aurora@makedns.net
 4020240234769 | Application for and possession of trademark rights for "마이픽오더"   
 
 ## Copyrights
+C-2026-009622 | MXSH - A universal shell that eliminates operating system barriers through intelligent command translation and AI-powered security validation. code copyrights  
 C-2026-005796 | NextAttention - Artificial intelligence inference code copyright  
 C-2026-001286 | SORI: Digital Idol Goods Display Design  
 C-2025-057100 | Saibius -  A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. (Computer program copyright. All source code and executable files.)  
