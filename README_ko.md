@@ -87,7 +87,8 @@ C-2024-016744 | 컴퓨터 통계 시스템 프로그래밍을 위한 교육자�
 C-2024-009110 | 블록체인 네트워크와 NFT를 사용한 다중 접속형 스토리 제작 방법 
 
 ## 이메일
-aurora@artsnoa.com  
+mailto:aurora@artsnoa.com  
+mailto:mirseo@aii.ac  
 
 ## 공지
 2025-09-12 | 공급망 침해 공격 조치 완료  
