@@ -134,11 +134,33 @@ C-2024-009110 | 블록체인 네트워크와 NFT를 사용한 다중 접속형 �
 | **Foreground** | ![Foreground](https://img.shields.io/badge/Foreground-ffffff?style=flat-square&color=ffffff&labelColor=ffffff) | `#ffffff` | `255, 255, 255` |  
 
 ## 인증서  
-<img width="120" height="120" alt="_e21b3fbfc17641d7803d731e64fd623f_image" src="https://github.com/user-attachments/assets/fb18c0f0-6ae6-42dd-8f54-0754b7bc229c" />  
-<img width="120" height="120" alt="cert2" src="https://github.com/user-attachments/assets/266dd586-8fc9-447d-84cd-f59ac620bbca" />  
-<img width="120" height="120" alt="cert3" src="https://github.com/user-attachments/assets/a1d99532-5e1e-4c21-853c-defbcc72818d" />  
-<img width="120" height="120" alt="cert4" src="https://github.com/user-attachments/assets/4733d7a4-93ca-40a5-8b94-33bb77fb2cc7" />  
-<img width="120" height="120" alt="cert5" src="https://github.com/user-attachments/assets/dca18c2d-5857-4d6e-92ff-d547b0c294c2" />  
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20Fundamentals.pdf">  
+ <img width="120" height="120" alt="_e21b3fbfc17641d7803d731e64fd623f_image" src="https://github.com/user-attachments/assets/fb18c0f0-6ae6-42dd-8f54-0754b7bc229c" />  
+</a>  
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Brainstorming%20and%20Planning.pdf">  
+ <img width="120" height="120" alt="cert2" src="https://github.com/user-attachments/assets/568b2b47-2b92-45ed-a385-ce29cf179fe2" />
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Research%20and%20Insights.pdf">  
+ <img width="120" height="120" alt="cert3" src="https://github.com/user-attachments/assets/a1d99532-5e1e-4c21-853c-defbcc72818d" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20Writing%20and%20Communicating.pdf">  
+ <img width="120" height="120" alt="cert4" src="https://github.com/user-attachments/assets/4733d7a4-93ca-40a5-8b94-33bb77fb2cc7" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Content%20Creation.pdf">  
+ <img width="120" height="120" alt="cert5" src="https://github.com/user-attachments/assets/dca18c2d-5857-4d6e-92ff-d547b0c294c2" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20App%20Building.pdf">  
+ <img width="120" height="120" alt="cert6" src="https://github.com/user-attachments/assets/93308bbf-ef34-4da7-b451-e055e94944ad" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Data%20Analysis.pdf">  
+ <img width="120" height="120" alt="cert7" src="https://github.com/user-attachments/assets/8dc61dd9-7004-4a59-9b56-04b0c39797b1" />  
+</a>
+<a href="https://github.com/mirseo/mirseo/blob/main/Certificate/Blaybus_HR.pdf">  
+ <img width="120" height="120" alt="original_oo" src="https://github.com/user-attachments/assets/a9ef06b0-35b8-467a-93cc-b460e035e8cf" />    
+</a>
+
+인증서 메뉴에 사용된 각 로고와 뱃지 저작권은 각 기업에 있습니다.  
+로고와 뱃지는 공모전 참여 인증 목적, 이수 증명 목적으로만 활용되었습니다.  
 
 ## Recent project
 ### USIA MCP (유시아 MCP)  
