@@ -124,6 +124,10 @@ C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NF
 <a href="https://github.com/mirseo/mirseo/blob/main/Certificate/AI%20for%20Data%20Analysis.pdf">  
  <img width="120" height="120" alt="cert7" src="https://github.com/user-attachments/assets/8dc61dd9-7004-4a59-9b56-04b0c39797b1" />  
 </a>
+<img width="120" height="120" alt="original_oo" src="https://github.com/user-attachments/assets/a9ef06b0-35b8-467a-93cc-b460e035e8cf" />  
+
+The copyrights of each logo and badge used in the certificate menu belong to their respective companies.   
+These logos and badges were used solely for the purpose of certifying participation in the contest.    
 
 ## Recent project
 ### USIA MCP  
