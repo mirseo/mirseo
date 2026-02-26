@@ -52,8 +52,8 @@
 2026 | (MXSH) - A universal shell that eliminates operating system barriers through intelligent command translation and AI-powered security validation. (https://mxsh.net)  
 
 ## Email
-mailto:aurora@artsnoa.com  
-mailto:mirseo@aii.ac  
+aurora@artsnoa.com  
+mirseo@aii.ac  
 
 ## Announcements
 2025-09-12 | Supply Chain Attack Mitigation Completed  
