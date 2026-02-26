@@ -52,9 +52,8 @@
 2026 | (MXSH) - A universal shell that eliminates operating system barriers through intelligent command translation and AI-powered security validation. (https://mxsh.net)  
 
 ## Email
-aurora@artsnoa.com  
-aurora@dockpose.com  
-aurora@makedns.net  
+mailto:aurora@artsnoa.com  
+mailto:mirseo@aii.ac  
 
 ## Announcements
 2025-09-12 | Supply Chain Attack Mitigation Completed  
