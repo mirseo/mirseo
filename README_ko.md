@@ -52,9 +52,8 @@
 2026 | (MXSH) - 러스트로 작성된 AI 기반 명령어 필터링 및 범용 셸 개발 (https://mxsh.net)  
 
 ## 이메일
-aurora@artsnoa.com  
-aurora@dockpose.com  
-aurora@makedns.net  
+mailto:aurora@artsnoa.com  
+mailto:mirseo@aii.ac   
 
 ## 공지
 2025-09-12 | 공급망 침해 공격 조치 완료  
