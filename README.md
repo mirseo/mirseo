@@ -33,7 +33,7 @@
 2025 | [Military Service Achievement] Developed MakeDNS.net (https://makedns.net)  
 2025 | [Military Service Achievement] Confidential - Storage Engine Development  
 2025 | [Military Service Achievement] Developed RUST-based String-formatter (https://github.com/mirseo/string-formatter)  
-2025 | [Military Service Achievement] Developed Chrome Extension KoreaSelector (https://koreasel.mirseo.dev, https://github.com/mirseo/WhereIsKorea-Extensions)  
+2025 | [Military Service Achievement] Developed Chrome Extension KoreaSelector (https://koreasel.artsnoa.com, https://github.com/mirseo/WhereIsKorea-Extensions)  
 2025 | [Military Service Achievement] Copyright Registration for Machine Learning Algorithm Educational Presentation Design (C-2025-034244)  
 2025 | [Military Service Achievement] Developed RUST-based Nano-DRM (Digital Watermarking Library) (https://github.com/mirseo/nano-drm)  
 2025 | [Military Service Achievement] Copyright Registration for Github Version Control Educational Presentation Design (C-2025-034423)  
