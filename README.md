@@ -50,6 +50,7 @@
 2026 | SORI (Sori): Acquired copyright for digital idol goods display design (C-2026-001286)  
 2026 | Intelligent Information Systems Laboratory (LAB) University Lab Director  
 2026 | (MXSH) - A universal shell that eliminates operating system barriers through intelligent command translation and AI-powered security validation. (https://mxsh.net)  
+2026 | Artsnoa.com digital asset CDN repository development (https://assets.artsnoa.com)  
 
 ## Email
 aurora@artsnoa.com  
