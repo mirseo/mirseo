@@ -50,6 +50,7 @@
 2026 | SORI(소리) : 디지털 아이돌 굿즈 디스플레이 디자인 저작권 취득 (C-2026-001286)  
 2026 | 지능정보 시스템 응용 실험실 ( LAB ) 대학교 연구실 랩장  
 2026 | (MXSH) - 러스트로 작성된 AI 기반 명령어 필터링 및 범용 셸 개발 (https://mxsh.net)  
+2026 | Artsnoa.com 디지털 에셋 CDN 저장소 개발 (https://assets.artsnoa.com)  
 
 ## 이메일
 mailto:aurora@artsnoa.com  
