@@ -51,6 +51,7 @@
 2026 | 지능정보 시스템 응용 실험실 ( LAB ) 대학교 연구실 랩장  
 2026 | (MXSH) - 러스트로 작성된 AI 기반 명령어 필터링 및 범용 셸 개발 (https://mxsh.net)  
 2026 | Artsnoa.com 디지털 에셋 CDN 저장소 개발 (https://assets.artsnoa.com)  
+2026 | Artsnoa.com 외부 퍼블릭 IP 확인 시스템 개발(https://ipc.artsnoa.com)  
 
 ## 이메일
 mailto:aurora@artsnoa.com  
