@@ -28,6 +28,7 @@
 2023 | University English Speaking Contest - Encouragement Award  
 2023 | University Roadmap Competition - Excellence Award  
 2023 | University Patent IP Competition - Center Director's Award  
+2023 | Design Thinking Creative Convergence Camp Grand Prize  
 2024 | Military Service (May 13, 2024~)  
 2025 | [Military Service Achievement] Developed MyPickOrder (https://mypickorder.com)  
 2025 | [Military Service Achievement] Developed MakeDNS.net (https://makedns.net)  
