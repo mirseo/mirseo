@@ -21,6 +21,7 @@
 2023 | Club President  
 2023 | Founded Artsnoa.com (artsnoa TM) - Owner  
 2023 | Startup Club  
+2023 | Participation in overseas exchange projects through inter-university exchange (Vietnam, Hanoi University of Science and Technology/Duy Tan University) and development of the Raumdoran Project  
 2023 | Capstone Project (Object Recognition-based User Model Modeling and Virtual Reality Metaverse Input System)  
 2023 | Co-founded DeepDynamic.me (Deep Dynamic)  
 2023 | Gyeonggi-do Startup Support Project - Excellence Award  
