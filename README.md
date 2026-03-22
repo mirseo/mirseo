@@ -175,15 +175,15 @@ https://github.com/user-attachments/assets/1d211337-9dd6-4667-a305-73069233f61a
 
 Ring, ring - a familiar sound reaches me.  
 
-Hopping it's you on the other end.  
+Hoping it's you on the other end.  
 
 I pick up without looking at the number.  
 
-It isn't you, so i put the mask back on.  
+It isn't you, so I put the mask back on.  
 
 Ring, ring - a familiar sound reaches me.  
 
-This time, i wish i could ther your voice.  
+This time, I wish i could hear your voice.  
 
 
 
