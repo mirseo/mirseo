@@ -199,3 +199,18 @@ https://github.com/user-attachments/assets/1d211337-9dd6-4667-a305-73069233f61a
 
   <img width="788" height="1388" alt="git-wrapped-mirseo" src="https://github.com/user-attachments/assets/7c1912c3-cbab-4b7a-a82b-63318e72795c" />
 </details>
+
+## 시, [그리움](https://github.com/mirseo/Poetry-Minds/blob/main/2026/01.21-%EA%B7%B8%EB%A6%AC%EC%9B%80.md)  
+
+뚜르르르, 익숙한 소리가 들려온다.  
+
+그 너머에 네가 받기를 바라며.  
+
+애써 번호를 보지 않고 수화기를 든다.  
+
+
+네가 아니기에, 여전히 가면을 쓴다.  
+
+뚜르르르, 익숙한 소리가 들려온다.  
+
+이번에는 네 목소리를 들을 수 있다면 좋을텐데.  
