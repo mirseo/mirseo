@@ -43,7 +43,7 @@
 2025 | [Military Service Achievement] Created Script to Enable TUN for TAILSCALE in Proxmox LXC Environment (https://github.com/mirseo/proxmox-lxc-tailscale-injector)  
 2025 | [Military Service Achievement] Developed Rust-based SSH Bridge, NotionSSH (2.0) (https://github.com/mirseo/notionSSH)  
 2025 | [Military Service Achievement] Developed Docker Run to Compose Conversion Application Dockpose.com (https://dockpose.com)  
-2025 | [Military Service Achievement] A dual-mode 8-bit CPU/ALU core built from scratch. v0.2 JSilicon - (https://github.com/mirseo/JSilicon)   
+2025 | [Military Service Achievement] A dual-mode 8-bit CPU/ALU core built from scratch. v0.2 JSilicon - (https://github.com/mirseo/JSilicon, https://tinytapeout.com/chips/ttsky25b/tt_um_Jsilicon)     
 2025 | A 3MB file server written in Rust, supporting HTTP Range, Zero-Copy, and dynamic batch size transfers. (https://saibius.com)  
 2025 | Turning imagination into reality, creating the official website for Artsnoa, a startup filled with my own memories. (https://artsnoa.com)  
 2025 | usiaMCP is an MCP server that checks if a user's email address has been leaked on the dark web and provides step-by-step instructions for immediate remedial action. (https://playmcp.kakao.com/mcp/264)      
