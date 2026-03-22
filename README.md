@@ -171,6 +171,20 @@ https://github.com/user-attachments/assets/1d211337-9dd6-4667-a305-73069233f61a
   <img width="788" height="1388" alt="git-wrapped-mirseo" src="https://github.com/user-attachments/assets/7c1912c3-cbab-4b7a-a82b-63318e72795c" />
 </details>
 
+## Poetry [Longing](https://github.com/mirseo/Poetry-Minds/blob/main/2026/01.21-%EA%B7%B8%EB%A6%AC%EC%9B%80.md)  
+
+Ring, ring - a familiar sound reaches me.  
+
+Hopping it's you on the other end.  
+
+I pick up without looking at the number.  
+
+It isn't you, so i put the mask back on.  
+
+Ring, ring - a familiar sound reaches me.  
+
+This time, i wish i could ther your voice.  
+
 
 
 
