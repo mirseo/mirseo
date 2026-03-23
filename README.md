@@ -54,6 +54,7 @@
 2026 | (MXSH) - A universal shell that eliminates operating system barriers through intelligent command translation and AI-powered security validation. (https://mxsh.net)  
 2026 | Artsnoa.com digital asset CDN repository development (https://assets.artsnoa.com)  
 2026 | Development of Artsnoa.com External Public IP Verification System (https://ipc.artsnoa.com)  
+2026 | Daejin University Intelligent Information Systems Application Laboratory Mirror Server Construction (https://mirror.aii.ac)  
 
 ## Email
 aurora@artsnoa.com  
