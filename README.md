@@ -55,6 +55,7 @@
 2026 | Artsnoa.com digital asset CDN repository development (https://assets.artsnoa.com)  
 2026 | Development of Artsnoa.com External Public IP Verification System (https://ipc.artsnoa.com)  
 2026 | Daejin University Intelligent Information Systems Application Laboratory Mirror Server Construction (https://mirror.aii.ac, https://about.aii.ac)    
+2026 | Best Paper Award (KIPO Commissioner’s Prize), KOSIPER, 2026  
 
 ## Email
 aurora@artsnoa.com  
