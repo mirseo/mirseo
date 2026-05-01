@@ -56,7 +56,7 @@
 2026 | Development of Artsnoa.com External Public IP Verification System (https://ipc.artsnoa.com)  
 2026 | Daejin University Intelligent Information Systems Application Laboratory Mirror Server Construction (https://mirror.aii.ac, https://about.aii.ac)    
 2026 | Best Paper Award (KIPO Commissioner’s Prize), KOSIPER, 2026  
-2026 | Team MAISC, Entrepreneurial Mindset (EM) Course (Global Track) The 12th Laboratory Research-Based Startup Exploration Program Ministry of Science and ICT (2026)  
+2026 | Ministry of Science and ICT 12th Cohort Laboratory Startup Exploration Team MAISC Team EM (Overseas Track)  
 
 ## Email
 aurora@artsnoa.com  
