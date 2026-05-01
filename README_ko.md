@@ -56,6 +56,7 @@
 2026 | Artsnoa.com 외부 퍼블릭 IP 확인 시스템 개발(https://ipc.artsnoa.com)  
 2026 | 대진대학교 지능정보시스템 응용 실험실 미러서버 구축 (https://mirror.aii.ac, https://about.aii.ac)   
 2026 | 한국지식재산연구학회(KOSIPER) 최우수논문, 지식재산처장상. (26.04.24)  
+2026 | 과학기술정보통신부 제12기 실험실 창업탐색팀 마이스크팀 EM (해외트랙)  
 
 ## 이메일
 mailto:aurora@artsnoa.com  
