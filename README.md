@@ -57,6 +57,7 @@
 2026 | Daejin University Intelligent Information Systems Application Laboratory Mirror Server Construction (https://mirror.aii.ac, https://about.aii.ac)    
 2026 | Best Paper Award (KIPO Commissioner’s Prize), KOSIPER, 2026  
 2026 | Ministry of Science and ICT 12th Cohort Laboratory Startup Exploration Team MAISC Team EM (Overseas Track)  
+2026 | Acquired copyright for AI educational agent presentation design (C-2026-024997)  
 
 ## Email
 aurora@artsnoa.com  
@@ -96,6 +97,7 @@ C-2025-034423 | Github Version Control Educational Presentation Design
 C-2025-034244 | Machine Learning Algorithm Educational Presentation Design  
 C-2024-016744 | Source code for educational materials on computer statistical system programming    
 C-2024-009110 | Method for Producing Multi-Access Stories with Blockchain and NFTs 
+C-2026-024997 | AI educational agent presentation design  
 
 ## Books
  [MONO12025000008077](https://dl.nanet.go.kr/detail/MONO12025000008077) | Co-author of Probability and Statistics with Python: Hands-on Coding Learning  
