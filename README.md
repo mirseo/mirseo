@@ -58,6 +58,7 @@
 2026 | Best Paper Award (KIPO Commissioner’s Prize), KOSIPER, 2026  
 2026 | Ministry of Science and ICT 12th Cohort Laboratory Startup Exploration Team MAISC Team EM (Overseas Track)  
 2026 | Acquired copyright for AI educational agent presentation design (C-2026-024997)  
+2026 | Daejin University Central Library 2026, Completion of the 1st Library Academy Course  
 
 ## Email
 aurora@artsnoa.com  
