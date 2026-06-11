@@ -60,7 +60,7 @@
 2026 | Acquired copyright for AI educational agent presentation design (C-2026-024997)  
 2026 | Daejin University Central Library 2026, Completion of the 1st Library Academy Course  
 2026 | AutoGEO, Development of Automated GEO Page Generation Program and Copyright Registration (C-2026-027495)  
-2023 | University Invention Competition(2026-1, Daejin University) - President's Award   
+2026 | University Invention Competition(2026-1, Daejin University) - President's Award   
 
 ## Email
 aurora@artsnoa.com  
