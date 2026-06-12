@@ -64,7 +64,7 @@
 
 ## Email
 aurora@artsnoa.com  
-mirseo@aii.ac  
+Biz : mail@deepdynamic.net
 
 ## Announcements
 2025-09-12 | Supply Chain Attack Mitigation Completed  
