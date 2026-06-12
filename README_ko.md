@@ -65,10 +65,7 @@
 ## 이메일
 mailto:aurora@artsnoa.com  
 mailto:mirseo@aii.ac   
-
-## 이메일
-aurora@artsnoa.com  
-mirseo@aii.ac  
+사업용 : mail@deepdynamic.net  
 
 ## 공지
 2025-09-12 | 공급망 침해 공격 조치 완료  
