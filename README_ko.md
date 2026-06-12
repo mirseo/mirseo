@@ -63,9 +63,8 @@
 2026 | 대진대학교 교내 창의 발명 경진대회, 2026-1, 대상   
 
 ## 이메일
-mailto:aurora@artsnoa.com  
-mailto:mirseo@aii.ac   
-사업용 : mail@deepdynamic.net  
+aurora@artsnoa.com   
+사업용 : mail@deepdynamic.net   
 
 ## 공지
 2025-09-12 | 공급망 침해 공격 조치 완료  
