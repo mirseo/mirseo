@@ -61,7 +61,7 @@
 2026 | Daejin University Central Library 2026, Completion of the 1st Library Academy Course  
 2026 | AutoGEO, Development of Automated GEO Page Generation Program and Copyright Registration (C-2026-027495)  
 2026 | University Invention Competition(2026-1, Daejin University) - grand prize  
-2026 | Established DeepDynamic Inc. as a corporation  
+2026 | Scaled and incorporated DeepDynamic Inc. from a student startup initiative to a registered corporation  
 
 ## Email
 aurora@artsnoa.com  
