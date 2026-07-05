@@ -62,6 +62,7 @@
 2026 | AutoGEO, Development of Automated GEO Page Generation Program and Copyright Registration (C-2026-027495)  
 2026 | University Invention Competition(2026-1, Daejin University) - grand prize  
 2026 | Scaled and incorporated DeepDynamic Inc. from a student startup initiative to a registered corporation  
+2026 | A project to directly transcribe the Constitution of the Republic of Korea and comprehend its underlying principles (https://github.com/mirseo/Constitution-of-the-Republic-of-Korea)  
 
 ## Email
 aurora@artsnoa.com  
