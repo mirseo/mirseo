@@ -62,6 +62,7 @@
 2026 | AutoGEO, 자동화된 GEO 페이지 생성 프로그램 개발 및 저작권 등록(C-2026-027495)  
 2026 | 대진대학교 교내 창의 발명 경진대회, 2026-1, 대상   
 2026 | 대학교 창업동아리에서 시작한 회사인 딥 다이나믹을 딥 다이나믹 (주)로 전환  
+2026 | 대한민국 헌법을 직접 필사하고, 담긴 생각을 배우는 프로젝트 (https://github.com/mirseo/Constitution-of-the-Republic-of-Korea)  
 
 ## 이메일
 aurora@artsnoa.com   
