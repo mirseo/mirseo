@@ -64,6 +64,7 @@
 2026 | 대학교 창업동아리에서 시작한 회사인 딥 다이나믹을 딥 다이나믹 (주)로 전환  
 2026 | 대한민국 헌법을 직접 필사하고, 담긴 생각을 배우는 프로젝트 (https://github.com/mirseo/Constitution-of-the-Republic-of-Korea)   
 2026 | (주) 딥 다이나믹 웹 사이트 개발 (https://deepdynamic.net)  
+2026 | HAM 무선통신, 제4급아마추어무선기사 자격증 취득  
 
 ## 이메일
 aurora@artsnoa.com   
