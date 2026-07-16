@@ -64,6 +64,7 @@
 2026 | Scaled and incorporated DeepDynamic Inc. from a student startup initiative to a registered corporation  
 2026 | A project to directly transcribe the Constitution of the Republic of Korea and comprehend its underlying principles (https://github.com/mirseo/Constitution-of-the-Republic-of-Korea)  
 2026 | Deepdynamic Inc Website Development (https://deepdynamic.net)  
+2026 | HAM Radio Operator, Obtained Class 4 Amateur Radio Operator License  
 
 ## Email
 aurora@artsnoa.com  
