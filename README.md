@@ -168,8 +168,11 @@ It isn't you, so I put the mask back on.
 
 Ring, ring - a familiar sound reaches me.  
 
-This time, I wish i could hear your voice.  
+This time, I wish i could hear your voice.   
 
+
+### Favorite Formulas
+$$D \approx 20 \times N$$
 
 
 
