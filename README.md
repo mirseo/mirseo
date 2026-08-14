@@ -66,7 +66,7 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 2026 | A project to directly transcribe the Constitution of the Republic of Korea and comprehend its underlying principles (https://github.com/mirseo/Constitution-of-the-Republic-of-Korea)  
 2026 | Deepdynamic Inc Website Development (https://deepdynamic.net)  
 2026 | HAM Radio Operator, Obtained Class 4 Amateur Radio Operator License  
-2026 | Development of Deep Dynamics Inc.'s company introduction page (https://deepdynamic.dev). 
+2026 | Development of DeepDynamic Inc.'s company introduction page (https://deepdynamic.dev). 
 
 ## Email
 aurora@artsnoa.com  
