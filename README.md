@@ -67,7 +67,7 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 2026 | Deepdynamic Inc Website Development (https://deepdynamic.net)  
 2026 | HAM Radio Operator, Obtained Class 4 Amateur Radio Operator License  
 2026 | Development of DeepDynamic Inc.'s company introduction page (https://deepdynamic.dev).  
-2026 | Daejin University Daejin Yeojido Employment Competency Enhancement Camp Career Roadmap Competition 2nd Place Award  
+2026 | (08.28) Daejin University Daejin Yeojido Employment Competency Enhancement Camp Career Roadmap Competition 2nd Place Award  
 
 ## Email
 aurora@artsnoa.com  
