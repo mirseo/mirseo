@@ -16,6 +16,7 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 
 ### Career History
 2019 | Naver Knowledge-iN Expert Activity (Top 0.0372% / Top 50,000 People)  
+2021 | High school student, library club activities and invention club activities  
 2022 | Founded Arisia.space  
 2023 | University Invention Competition - Techno Valley Award  
 2023 | Intelligent Information Systems Laboratory (LAB)  
