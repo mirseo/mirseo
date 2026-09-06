@@ -70,6 +70,7 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 2026 | Development of DeepDynamic Inc.'s company introduction page (https://deepdynamic.dev).  
 2026 | (08.28) Daejin University Daejin Yeojido Employment Competency Enhancement Camp Career Roadmap Competition 2nd Place Award  
 2026 | (08.31) Completion of the 4 types of unmanned powered flight devices (unmanned multicopters) conducted by the Korea Transportation Safety Authority  
+2026 | Deep Dynamics Colocation Service, which hosts personal PCs, SBCs, and servers like @flymong27 and @SHINJIHAN, has transitioned from beta to official.  
 
 ## Email
 aurora@artsnoa.com  
