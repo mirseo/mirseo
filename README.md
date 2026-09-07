@@ -70,7 +70,8 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 2026 | Development of DeepDynamic Inc.'s company introduction page (https://deepdynamic.dev).  
 2026 | (08.28) Daejin University Daejin Yeojido Employment Competency Enhancement Camp Career Roadmap Competition 2nd Place Award  
 2026 | (08.31) Completion of the 4 types of unmanned powered flight devices (unmanned multicopters) conducted by the Korea Transportation Safety Authority  
-2026 | DeepDynamic Colocation Service, which hosts personal PCs, SBCs, and servers in collaboration with [정준영 @flymong27](https://github.com/flymong27) and [신지한 @SHINJIHAN](https://github.com/SHINJIHAN), has transitioned from beta to official.
+2026 | DeepDynamic Colocation Service, which hosts personal PCs, SBCs, and servers in collaboration with [정준영 @flymong27](https://github.com/flymong27) and [신지한 @SHINJIHAN](https://github.com/SHINJIHAN), has transitioned from beta to official.  
+2026 | Mirseo Print to Image (Rust-based virtual printer program for saving images using print ipp driver) Copyright Registered ( No. C-2026-043895 )  
 
 ## Email
 aurora@artsnoa.com  
