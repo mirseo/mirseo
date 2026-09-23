@@ -72,7 +72,7 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 2026 | (08.31) Completion of the 4 types of unmanned powered flight devices (unmanned multicopters) conducted by the Korea Transportation Safety Authority  
 2026 | DeepDynamic Colocation Service, which hosts personal PCs, SBCs, and servers in collaboration with [정준영 @flymong27](https://github.com/flymong27) and [신지한 @SHINJIHAN](https://github.com/SHINJIHAN), has transitioned from beta to official.  
 2026 | Mirseo Print to Image (Rust-based virtual printer program for saving images using print ipp driver) Copyright Registered ( No. C-2026-043895 )  
-2026 | Youtube Music Artist(https://www.youtube.com/channel/UCwcY8d_GzwW0Au2UBvSiWVw)  
+2026 | Opened a YouTube artist channel (https://www.youtube.com/channel/UCwcY8d_GzwW0Au2UBvSiWVw)   
 
 ## Email
 aurora@artsnoa.com  
