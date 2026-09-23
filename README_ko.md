@@ -73,6 +73,7 @@ JSilicon, TinyTapeout을 통해 테이프아웃된 제 첫 칩입니다.
 2026 | 정준영(@flymong27) 및 신지한(@SHINJIHAN)과 함께하는 딥 다이나믹 주식회사의 서비스 개인용 PC, SBC 및 서버를 호스팅하는 DeepDynamic Colocation Service가 베타 버전을 종료하고 공식 서비스로 전환되었습니다.   
 2026 | Mirseo Print to Image (인쇄 ipp 드라이버를 이용한 Rust 기반 이미지 저장 가상 프린터 프로그램) 저작권 등록 ( 제C-2026-043895호 )  
 2026 | 유튜브 뮤직 아티스트 채널 개설 (https://www.youtube.com/channel/UCwcY8d_GzwW0Au2UBvSiWVw)  
+2026 | NEXT-HOP 곡 발매 (https://youtu.be/bYj4ZqTgth4?si=lK9peUTum3DOnLK3)  
 
 ## 이메일
 aurora@artsnoa.com   
