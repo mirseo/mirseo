@@ -74,6 +74,7 @@ JSilicon, TinyTapeout을 통해 테이프아웃된 제 첫 칩입니다.
 2026 | Mirseo Print to Image (인쇄 ipp 드라이버를 이용한 Rust 기반 이미지 저장 가상 프린터 프로그램) 저작권 등록 ( 제C-2026-043895호 )  
 2026 | 유튜브 뮤직 아티스트 채널 개설 (https://www.youtube.com/channel/UCwcY8d_GzwW0Au2UBvSiWVw)  
 2026 | NEXT-HOP 곡 발매 (https://youtu.be/bYj4ZqTgth4?si=lK9peUTum3DOnLK3)  
+2026 | 종속성을 보기 좋게 brick으로 시각화해서 보여주는 웹사이트 개발 (https://bricknamic.com)  
 
 ## 이메일
 aurora@artsnoa.com   
