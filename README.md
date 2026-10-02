@@ -74,6 +74,7 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 2026 | Mirseo Print to Image (Rust-based virtual printer program for saving images using print ipp driver) Copyright Registered ( No. C-2026-043895 )  
 2026 | Opened a YouTube artist channel (https://www.youtube.com/channel/UCwcY8d_GzwW0Au2UBvSiWVw)   
 2026 | NEXT-HOP Song Release (https://youtu.be/bYj4ZqTgth4?si=lK9peUTum3DOnLK3)  
+2026 | Development of a website that visualizes dependencies as bricks (https://bricknamic.com)  
 
 ## Email
 aurora@artsnoa.com  
