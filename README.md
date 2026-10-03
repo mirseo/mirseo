@@ -75,6 +75,7 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 2026 | Opened a YouTube artist channel (https://www.youtube.com/channel/UCwcY8d_GzwW0Au2UBvSiWVw)   
 2026 | NEXT-HOP Song Release (https://youtu.be/bYj4ZqTgth4?si=lK9peUTum3DOnLK3)  
 2026 | Development of a website that visualizes dependencies as bricks (https://bricknamic.com)  
+2026 | Development of a personal introduction page featuring glassmorphism (https://mirseo.net)  
 
 ## Email
 aurora@artsnoa.com  
