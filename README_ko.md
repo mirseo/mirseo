@@ -76,6 +76,7 @@ JSilicon, TinyTapeout을 통해 테이프아웃된 제 첫 칩입니다.
 2026 | NEXT-HOP 곡 발매 (https://youtu.be/bYj4ZqTgth4?si=lK9peUTum3DOnLK3)  
 2026 | 종속성을 보기 좋게 brick으로 시각화해서 보여주는 웹사이트 개발 (https://bricknamic.com)  
 2026 | 글래스모피즘을 적용한 개인 소개 페이지 개발 (https://mirseo.net)  
+2026 | 아마추어 무선 콜사인 (KR) 6K2MGP 취득  
 
 ## 이메일
 aurora@artsnoa.com   
