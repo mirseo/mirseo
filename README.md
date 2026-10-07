@@ -78,7 +78,7 @@ CallSign : 6K2MGP
 2026 | NEXT-HOP Song Release (https://youtu.be/bYj4ZqTgth4?si=lK9peUTum3DOnLK3)  
 2026 | Development of a website that visualizes dependencies as bricks (https://bricknamic.com)  
 2026 | Development of a personal introduction page featuring glassmorphism (https://mirseo.net)  
-2026 | Acquired Amateur Radio Call Sign (KR) 6K2MGP  
+2026 | Acquired Amateur Radio Call Sign (KR) 6K2MGP (https://www.qrz.com/db/6K2MGP)  
 
 ## Email
 aurora@artsnoa.com  
