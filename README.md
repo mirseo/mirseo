@@ -1,6 +1,8 @@
 <img width="4032" height="3024" alt="chip-display-up" src="https://github.com/user-attachments/assets/19516088-f0d0-41a2-98d2-398d31189530" />  
 JSilicon, taped out via TinyTapeout - Sky130 Breakout  
 
+CallSign : 6K2MGP  
+
 ### Language
 - [🇰🇷 한국어](README_ko.md)
 - [🇺🇸 English](README.md)
