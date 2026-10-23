@@ -79,7 +79,7 @@ CallSign : 6K2MGP
 2026 | 글래스모피즘을 적용한 개인 소개 페이지 개발 (https://mirseo.net)  
 2026 | 아마추어 무선 콜사인 (KR) 6K2MGP 취득 (https://www.qrz.com/db/6K2MGP)  
 2026 | 우수 논문상, AI-AGENTS를 사용한 다중화 검색 시스템 (한국발명진흥회장상) 수상 / 공동 수상 (@flymong27)   
-2026 | 2026.10.23 ASN (AS218376)을 취득하였으며, 운영을 시작했습니다 (https://bgp.tools/as/218376)  
+2026 | 2026.10.16 ASN (AS218376)을 취득하였으며, 운영을 시작했습니다 (https://bgp.tools/as/218376)  
 
 ## 이메일
 aurora@artsnoa.com   
