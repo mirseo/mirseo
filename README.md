@@ -80,7 +80,7 @@ CallSign : 6K2MGP
 2026 | Development of a personal introduction page featuring glassmorphism (https://mirseo.net)  
 2026 | Acquired Amateur Radio Call Sign (KR) 6K2MGP (https://www.qrz.com/db/6K2MGP)  
 2026 | Winner of the Outstanding Paper Award, Multiplexed Search System Using AI-AGENTS (Korea Invention Promotion Association President's Award) / Joint Winner (@flymong27)  
-2026 | October 23, 2026: Acquired and began operating an ASN (AS218376) (https://bgp.tools/as/218376)  
+2026 | October 16, 2026: Acquired and began operating an ASN (AS218376) (https://bgp.tools/as/218376)  
 
 ## Email
 aurora@artsnoa.com  
