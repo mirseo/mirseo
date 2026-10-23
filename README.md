@@ -2,6 +2,7 @@
 JSilicon, taped out via TinyTapeout - Sky130 Breakout  
 
 CallSign : 6K2MGP  
+Network : AS218376  
 
 ### Language
 - [🇰🇷 한국어](README_ko.md)
