@@ -1,8 +1,8 @@
 <img width="4032" height="3024" alt="chip-display-up" src="https://github.com/user-attachments/assets/19516088-f0d0-41a2-98d2-398d31189530" />
-JSilicon, TinyTapeout을 통해 테이프아웃된 제 첫 칩입니다.   
-CallSign : 6K2MGP  
-Network : AS218376  
-
+JSilicon, TinyTapeout을 통해 테이프아웃된 제 첫 칩입니다.    
+CallSign : 6K2MGP   
+Network : AS218376    
+  
 그 미래가 얼마나 힘들고 복잡하고 어려울지라도, 꿈을 꾸는 걸 멈춰서는 안 돼.  
 꿈을 꾸지 않는 이는 멈추지만, 꿈을 꾸는 사람은 얼마나 어려워도, 복잡해도, 끝까지 도달하니까.  
  
