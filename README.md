@@ -4,6 +4,9 @@ JSilicon, taped out via TinyTapeout - Sky130 Breakout
 CallSign : 6K2MGP  
 Network : AS218376  
 
+No matter how hard, complicated, and difficult that future may be, you must not stop dreaming.  
+Those who do not dream stop, but those who dream reach the end, no matter how difficult or complicated it is.  
+
 ### Language
 - [🇰🇷 한국어](README_ko.md)
 - [🇺🇸 English](README.md)
