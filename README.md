@@ -85,8 +85,8 @@ Those who do not dream stop, but those who dream reach the end, no matter how di
 2026 | Acquired Amateur Radio Call Sign (KR) 6K2MGP (https://www.qrz.com/db/6K2MGP)  
 2026 | Winner of the Outstanding Paper Award, Multiplexed Search System Using AI-AGENTS (Korea Invention Promotion Association President's Award) / Joint Winner (@flymong27)  
 2026 | October 16, 2026: Acquired and began operating an ASN (AS218376) (https://bgp.tools/as/218376)  
-2026 | Presentation at CICS'26 Conference on Information and Control, Eunyul - A Study on Building a Korean-Specialized Foundation Language Model / First Author (26.11.12)  
-2026 | Presentation at CICS'26 Conference on Information and Control, Analysis and Mitigation of Sentence-Level Repetition Loops in Supervised Fine-Tuning of a Lightweight Korean Language Model (Second Author) / Co-author (@flymong27) (26.11.12)  
+2026 | Presentation at CICS'26 Conference on Information and Control, Eunyul - A Study on Building a Korean-Specialized Foundation Language Model / First Author (26.11.12) (https://drive.google.com/file/d/1G_5m_OK_svHJxkt54yQBYy4dYrK4Fg81/view)    
+2026 | Presentation at CICS'26 Conference on Information and Control, Analysis and Mitigation of Sentence-Level Repetition Loops in Supervised Fine-Tuning of a Lightweight Korean Language Model (Second Author) / Co-author (@flymong27) (26.11.12) (https://drive.google.com/file/d/1G_5m_OK_svHJxkt54yQBYy4dYrK4Fg81/view)  
 
 ## Email
 aurora@artsnoa.com  
