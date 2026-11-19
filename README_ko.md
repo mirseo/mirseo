@@ -84,8 +84,8 @@ Network : AS218376
 2026 | 아마추어 무선 콜사인 (KR) 6K2MGP 취득 (https://www.qrz.com/db/6K2MGP)  
 2026 | 우수 논문상, AI-AGENTS를 사용한 다중화 검색 시스템 (한국발명진흥회장상) 수상 / 공동 수상 (@flymong27)   
 2026 | 2026.10.16 ASN (AS218376)을 취득하였으며, 운영을 시작했습니다 (https://bgp.tools/as/218376)  
-2026 | CICS'26 정보 및 제어 학술대회 논문 발표, 은율 - 한국어 8B 파운데이션 언어 모델 구축에 관한 연구 / 제1 저자 (26.11.12)  
-2026 | CICS'26 정보 및 제어 학술대회 논문 발표, 한국어 특화 경량 언어 모델에서 SFT 문장 단위 반복 루프의 분석과 완화 방안 (제2 저자) / 공동 저자 (@flymong27) (26.11.12)
+2026 | CICS'26 정보 및 제어 학술대회 논문 발표, 은율 - 한국어 8B 파운데이션 언어 모델 구축에 관한 연구 / 제1 저자 (26.11.12) (https://drive.google.com/file/d/1G_5m_OK_svHJxkt54yQBYy4dYrK4Fg81/view)  
+2026 | CICS'26 정보 및 제어 학술대회 논문 발표, 한국어 특화 경량 언어 모델에서 SFT 문장 단위 반복 루프의 분석과 완화 방안 (제2 저자) / 공동 저자 (@flymong27) (26.11.12) (https://drive.google.com/file/d/1G_5m_OK_svHJxkt54yQBYy4dYrK4Fg81/view)  
 
 ## 이메일
 aurora@artsnoa.com   
